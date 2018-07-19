@@ -1,0 +1,3 @@
+Le but de se dossier est de se familiariser avec GIT 
+et de passer rapidement les fichiers du Macbook
+au raspberry pi pour tester les scripts python
